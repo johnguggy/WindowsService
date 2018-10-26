@@ -1,0 +1,9 @@
+C:\CC6\Samples\FirstService\FirstService\bin\Debug\FirstService.exe.config
+C:\CC6\Samples\FirstService\FirstService\bin\Debug\FirstService.exe
+C:\CC6\Samples\FirstService\FirstService\bin\Debug\FirstService.pdb
+C:\CC6\Samples\FirstService\FirstService\obj\Debug\FirstService.csprojAssemblyReference.cache
+C:\CC6\Samples\FirstService\FirstService\obj\Debug\FirstService.FirstService.resources
+C:\CC6\Samples\FirstService\FirstService\obj\Debug\FirstService.csproj.GenerateResource.cache
+C:\CC6\Samples\FirstService\FirstService\obj\Debug\FirstService.csproj.CoreCompileInputs.cache
+C:\CC6\Samples\FirstService\FirstService\obj\Debug\FirstService.exe
+C:\CC6\Samples\FirstService\FirstService\obj\Debug\FirstService.pdb
